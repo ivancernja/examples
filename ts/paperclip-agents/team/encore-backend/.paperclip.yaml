@@ -1,0 +1,19 @@
+schema: paperclip/v1
+agents:
+  backend-lead:
+    permissions:
+      canCreateAgents: true
+  encore-engineer:
+    inputs:
+      env:
+        ENCORE_AUTH_KEY:
+          kind: secret
+          requirement: optional
+          default: ""
+  deploy-reviewer:
+    inputs:
+      env:
+        ENCORE_AUTH_KEY:
+          kind: secret
+          requirement: optional
+          default: ""

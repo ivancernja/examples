@@ -81,6 +81,7 @@ E.g. `encore app create my-app --example=ts/hello-world`
 | [ts/replicate-image-generator](ts/replicate-image-generator)     | Replicate Image Generator Example                                                                                        | APIs, Secrets                                                          |
 | [ts/socket-io](ts/socket-io)                                     | Socket.IO Real-time Communication Example                                                                                | APIs, Raw Endpoints                                                    |
 | [ts/inbound](ts/inbound)                                         | Inbound Webhook Handler Example                                                                                          | APIs, Raw Endpoints                                                    |
+| [ts/paperclip-agents](ts/paperclip-agents)                       | Paperclip agent team with an Encore.ts worker                                                                            | APIs, SQL Database, Cron Jobs, Secrets                                 |
 
 ### Go starters
 

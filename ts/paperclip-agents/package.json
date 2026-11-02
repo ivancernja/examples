@@ -1,0 +1,17 @@
+{
+  "name": "paperclip-agents",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Paperclip agent team with an Encore.ts worker",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "encore.dev": "^1.58.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.6.3"
+  }
+}
