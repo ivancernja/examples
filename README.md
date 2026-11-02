@@ -81,6 +81,7 @@ E.g. `encore app create my-app --example=ts/hello-world`
 | [ts/replicate-image-generator](ts/replicate-image-generator)     | Replicate Image Generator Example                                                                                        | APIs, Secrets                                                          |
 | [ts/socket-io](ts/socket-io)                                     | Socket.IO Real-time Communication Example                                                                                | APIs, Raw Endpoints                                                    |
 | [ts/inbound](ts/inbound)                                         | Inbound Webhook Handler Example                                                                                          | APIs, Raw Endpoints                                                    |
+| [ts/openrouter-agent](ts/openrouter-agent)                       | Always-on Hacker News agent with OpenRouter                                                                              | APIs, SQL Database, Pub/Sub, Cron Jobs, Secrets                        |
 
 ### Go starters
 
